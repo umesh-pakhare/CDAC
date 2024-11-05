@@ -1,0 +1,8 @@
+body{lightslategray;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;padding: 5px; }
+table{border-collapse:collapse; }
+fieldset{width:100%;}
+#edudetails{border:1px solid black; border-collapse: collapse; padding:5px;}
+th,tr,td{border:1px solid black;  }
+
+.container{}
+

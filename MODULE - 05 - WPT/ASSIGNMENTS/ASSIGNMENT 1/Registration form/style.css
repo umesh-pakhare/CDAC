@@ -1,0 +1,4 @@
+body{bacground-color:grey;}
+tr,td,th{border:1px solid black; border-collapse:collapse;padding:5px;}
+table{border-collapse:collapse; width:100%;}
+input[type="text"],input[type="number"],textarea{width:50%;}
